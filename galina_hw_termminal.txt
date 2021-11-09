@@ -1,0 +1,44 @@
+
+1) Посмотреть где я - pwd
+2) Создать папку -  mkdir group_24
+3) Зайти в папку - cd group_24/
+4) Создать 3 папки - mkdir f_1 f_2 f_3
+5) Зайти в любоую папку -  cd f_1/
+6) Создать 5 файлов (3 txt, 2 json) - touch test_1.txt
+                                      touch test_2.txt
+                                      touch test_3.txt
+                                      touch test_1.json
+                                      touch test_2.json
+7) Создать 3 папки -  mkdir f_4 f_5 f_6
+8. Вывести список содержимого папки - 
+ ls -la
+total 4
+drwxr-xr-x 1 user 197121 0 Nov  2 09:26 ./
+drwxr-xr-x 1 user 197121 0 Nov  1 10:00 ../
+drwxr-xr-x 1 user 197121 0 Nov  2 09:28 group_24/
+9) Открыть любой txt файл -  vim test_1.txt
+10) написать туда что-нибудь, любой текст. - i Halina Shemetavets
+11) сохранить и выйти. - esc : w q inter
+12) Выйти из папки на уровень выше - cd ..
+—
+13) переместить любые 2 файла, которые вы создали, в любую другую папку. -  mv test_2.json f_4/test_2.json
+                                                                            mv test_2.txt f_4/test_2.txt
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку. - cp -p test_1.txt f_4/test_1.txt
+                                                                           cp -p test_2.txt f_4/test_2.txt
+15) Найти файл по имени -  find -name test_1.json
+./f_4/test_1.json
+
+16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает.
+grep Halina test_1.txt
+Halina Shemetavets
+
+17) вывести несколько первых строк из текстового файла  -  head -n1 test_1.txt
+Halina Shemetavets
+
+18) вывести несколько последних строк из текстового файла -  head -n1 test_1.txt
+Halina Shemetavets
+
+19) просмотреть содержимое длинного файла (команда less) изучите как она работает. - less  <d> 
+20) вывести дату и время - date
+Tue Nov  2 15:07:51     2021
+=========
