@@ -1,0 +1,141 @@
+    1  mkdir group_24
+    2  pvd
+    3  mkdir folder_
+    4  cd folder_/
+    5  toush test.txt
+    6  touch test.txt
+    7  touch test_2.json
+    8  > test_3
+    9  mv test_3 test_3.xml
+   10  mkdir f_1 f_2 f_3
+   11  mkdir -p d_1/d_2/d_3
+   12  ls
+   13  ls -la
+   14  ls -l
+   15  cd ..
+   16  pvd
+   17  cd folder_1/
+   18  pwd
+   19   cd folder_1/
+   20  ls -la
+   21  vim test_2.json
+   22  cat test_2.json
+   23  ls -la
+   24  mv tect_2.json f_2/test_2.json
+   25  cd f_2
+   26  pwd
+   27  mkdir fulder_1
+   28  cd fulder_1/
+   29  touch test.txt
+   30  touch test_1.txt
+   31  touch test_2.txt
+   32  touch test.json
+   33   touch test_1.json
+   34  mkdir f_1 f_2 f_3
+   35  ls
+   36  vim test_1.txt
+   37  history -d linenumber.
+   38  vim  test_1.json
+   39  cat
+   40  pwd
+   41  mkdir group_24
+   42  cd group_24
+   43  mkdir f_1 f_2 f_3
+   44  cd f_1
+   45  touch test.txt
+   46  touch test.txt
+   47  pwd
+   48  mkdir group_24
+   49  cd group_24/
+   50  mkdir f_1 f_2 f_3
+   51  cd f_1/
+   52  touch test_1.txt
+   53  touch test_2.txt
+   54  touch test_3.txt
+   55  touch test_1.json
+   56  touch test_2.json
+   57  mkdir f_4 f_5 f_6
+   58  ls-la
+   59  cd group_24/
+   60  pwd
+   61  cd ..
+   62  ls-la
+   63  pwd
+   64  ls-la
+   65  cd ..
+   66  cd f_1/
+   67  cd f_1
+   68  cd f_1/
+   69  pwd
+   70  ls -la
+   71  vim test_1
+   72  vim test_1
+   73  pwd
+   74  mv test_1 test
+   75  mv test f_1/test
+   76  mv test group_24/test
+   77  mv test f_1/test
+   78  ls -la
+   79  cd ..
+   80  cd f_1/
+   81  cd group_24/
+   82  cd 291021_halina/
+   83  cd group_24/
+   84  cd f_1/
+   85  mv test_2 f_4/test_2
+   86   mv test_2 f_2/test_2
+   87  mv test_2.txt f_2/test_2,txt
+   88  vim test_1.txt
+   89  mv test_2.txt f_4/ test_2.txt
+   90   mv test_2.txt f_2/ test_2.txt
+   91  mv test_2.txt f_2/test_2.txt
+   92  mv test_1.json f_4/
+   93  mv test_1.json f_4/test_1.json
+   94  pwd
+   95  cd group_24/
+   96  pwd
+   97  mv test_2.json f_4/test_2.json
+   98  cp -p test_1.txt f_4/test_1.txt
+   99   cp -p test_2.txt f_4/test_2.txt
+  100  find -name test_1.json
+  101  grep Halina test_1.txt
+  102  head n1 test_1.txt
+  103  pwd 
+  104  head n1 test_1
+  105   head n1 test_1.txt
+  106   head n1 test_1.txt
+  107  head -n1 test_1.txt
+  108  less 
+  109  less test_1.txt
+  110  sudo date -s "15:00"
+  111  pwd
+  112  date
+  113  date 
+  114  date
+  115  > coding.d
+  116  pwd 
+  117  is -la
+  118  mkdir group_24
+  119  cd group_24/
+  120  git clone https://github.com/halinashemetavets/group_24.git
+  121  open ./
+  122  start .
+  123  ls -la
+  124  touch test_1.json
+  125  ls -la
+  126  ls -la
+  127  vim test_1.json
+  128  cd group_24/
+  129  start .
+  130  pwd
+  131  ls -la
+  132  vim test_1.json
+  133  git status
+  134  pwd
+  135  ls _la
+  136  ls -la
+  137  git status
+  138  ls -la
+  139  cd group_24/
+  140  ls -la
+  141  history>h_galina_terminal.txt
