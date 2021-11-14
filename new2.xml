@@ -1,2 +1,7 @@
-      Shemetovets Galina
-
+Shemetovets Galina
+<root>
+<books count="2">
+</root>
+<book pages="246">
+	<title>рефакторинг</title>
+</root>
